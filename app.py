@@ -36,7 +36,7 @@ st.info('Dashboard will be built step by step 🚧')
 #Load Data
 @st.cache_data
 def load_data():
-    df=pd.read_excel('data\Online Retail.xlsx')
+    df=pd.read_excel('data/Online Retail.xlsx')
     return df
 
 df=load_data()
