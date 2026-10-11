@@ -2,7 +2,7 @@
 
 **Author:** Aryam Khaled  
 **Date:** October 2026  
-**Repository:** [Your GitHub Link]
+**Repository:** https://github.com/aryamkhaled/ecommerce-dashboard
 
 ---
 
