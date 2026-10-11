@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Interactive dashboard built with Streamlit and Plotly to visualize e-commerce sales data .
 
@@ -14,7 +14,7 @@ Interactive dashboard built with Streamlit and Plotly to visualize e-commerce sa
 
 ---
 
-## 🎯 Features (Coming Soon)
+## Features 
 
 - KPI cards (Total Sales, Customers, Orders)
 - Interactive charts (Top Products, Monthly Trend, Geographic)
@@ -23,7 +23,7 @@ Interactive dashboard built with Streamlit and Plotly to visualize e-commerce sa
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Streamlit** — Dashboard framework
@@ -32,7 +32,7 @@ Interactive dashboard built with Streamlit and Plotly to visualize e-commerce sa
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 October Project/
 
