@@ -58,7 +58,7 @@ October Project/
 
 ## Live Demo
 
-Coming soon on Streamlit Cloud.
+https://ecommerce-dashboard-aryam-khaled.streamlit.app/
 
 ---
 
