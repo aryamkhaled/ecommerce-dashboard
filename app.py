@@ -26,7 +26,7 @@ st.markdown('**Interactive analysis of online retail data**')
 
 st.divider()
 
-st.sidebar.header('Navigation 📊')
+st.sidebar.header('Navigation ')
 
 st.success('Streamlit is working ✅')
 
